@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ucsc.extension.MortgageCalculator" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-12-20T21:17:45" hostname="Yvonne-PC" time="41.304">
+  <properties/>
+  <testcase name="testMortgageCalculator" classname="edu.ucsc.extension.MortgageCalculator" time="41.304"/>
+  <system-out><![CDATA[OUTPUT DIR: C:\Users\Yvonne\Desktop\WebTesting\prog\assignment2\assignment2\build\tmp
+Monthly Payment : $3,309.11
+Total of 360 Payments : $1,191,278.92
+Total Interest Paid : $459,820.59
+Pay-off Date : Dec, 2045
+Total Tax Paid : $225,000.00
+Total PMI Paid : $6,458.33
+31 Monthly PMI Payments of $208.33 Each : Monthly PMI
+PMI Pay-off Date : Aug, 2018
+Monthly Payment : $3,309.11
+Total of 360 Payments : $1,654.55
+Total Interest Paid : Dec, 2045
+Pay-off Date : Mar, 2041
+Total Tax Paid : $459,820.59
+Total PMI Paid : $373,929.13
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
